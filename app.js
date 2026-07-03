@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 40;
+let numeroMaximo = 60;
 
 console.log(numeroSecreto);
 
